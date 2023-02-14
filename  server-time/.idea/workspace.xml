@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13f182d-bfc3-41ef-a07b-210910ed8fc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/demoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/webapp/demo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/module3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss1_co_so_du_lieu_quan_he.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_thiet_ke_va_tao_csdl/1_chuyen_doi_ERD_sang_mo_hinh_quan_he/chuyen_doi_ERD_sang_mo_hinh_quan_he.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_thiet_ke_va_tao_csdl/1_chuyen_doi_ERD_sang_mo_hinh_quan_he/chuyen_doi_ERD_sang_mo_hinh_quan_he.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_thiet_ke_va_tao_csdl/1_chuyen_doi_ERD_sang_mo_hinh_quan_he/ss2.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_thiet_ke_va_tao_csdl/2_xay_dung_csdl_qua_li_ban_hang/xay_dung_csdl_qua_li_ban_hang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_thiet_ke_va_tao_csdl/2_xay_dung_csdl_qua_li_ban_hang/xay_dung_csdl_quan_li_ban_hang.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3_thao_tac_voi_csdl/1_quan_ly_sinh_vien.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3_thao_tac_voi_csdl/2_quan_ly_ban_hang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss4_các_ham_thong_dung_trong_mysql/luyen_tap_su_dung_cac_ham_thong_dung_sql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_view_index_store_procedure.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss6_css_cascading_style_stylesheet/dinh_dang_van_ban_voi_css/dinh_dang_van_ban_voi_css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss6_css_cascading_style_stylesheet/nhung_css_vao_trang_html/nhung_css_vao_trang_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss6_css_cascading_style_stylesheet/nhung_css_vao_trang_html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss7_thiet_ke_bo_cuc_trang_web/phat_trien_trang_web_xem_hoat_hinh_truc_tuyen/phat_trien_trang_web_xem_hoat_hinh_truc_tuyen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss7_thiet_ke_bo_cuc_trang_web/phat_trien_trang_web_xem_hoat_hinh_truc_tuyen/phat_trien_trang_web_xem_hoat_hinh_truc_tuyen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss7_thiet_ke_bo_cuc_trang_web/tao_layour_voi_RWD/ss7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss7_thiet_ke_bo_cuc_trang_web/tao_layour_voi_RWD/tao_layout_voi_RWD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss7_thiet_ke_bo_cuc_trang_web/test/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss7_thiet_ke_bo_cuc_trang_web/test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/bootstrap-5.1.3-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/landing_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_bootstrap/tao_gallery_don_gian.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="false" />
+        <option name="checksumPolicy" value="FAIL" />
+        <option name="failureBehavior" value="FAST" />
+        <option name="localRepository" value="" />
+        <option name="mavenHome" value="" />
+        <option name="nonRecursive" value="false" />
+        <option name="outputLevel" value="INFO" />
+        <option name="pluginUpdatePolicy" value="DEFAULT" />
+        <option name="printErrorStackTraces" value="false" />
+        <option name="usePluginRegistry" value="false" />
+        <option name="userSettingsFile" value="" />
+        <option name="workOffline" value="false" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="false" />
+        <option name="createModulesForAggregators" value="true" />
+        <option name="dedicatedModuleDir" value="" />
+        <option name="downloadDocsAutomatically" value="false" />
+        <option name="downloadSourcesAutomatically" value="false" />
+        <option name="excludeTargetFolder" value="true" />
+        <option name="generatedSourcesFolder" value="AUTODETECT" />
+        <option name="importAutomatically" value="false" />
+        <option name="keepSourceFolders" value="true" />
+        <option name="lookForNested" value="false" />
+        <option name="updateFoldersOnImportPhase" value="process-resources" />
+        <option name="useMavenOutput" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list />
+    </option>
+  </component>
+  <component name="ProjectId" id="2LUGK8H7ILZ2xQKZzwq33PHVapR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.71" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.71" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13f182d-bfc3-41ef-a07b-210910ed8fc0" name="Default Changelist" comment="" />
+      <created>1675918180759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675918180759</updated>
+      <workItem from="1675918183477" duration="787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="0" key="new project wizard" timestamp="1675924461924">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="418" y="0" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1675924461924" />
+  </component>
+</project>

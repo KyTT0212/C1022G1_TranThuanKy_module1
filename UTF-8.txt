@@ -1,0 +1,6 @@
+Để fix UTF-8
+Trong file build.gradle 2 dòng này vào:
+            compileJava.options.encoding = 'UTF-8'
+            tasks.withType(JavaCompile) {options.encoding = 'UTF-8'}
+Trong doGet và doPost thì thêm câu lệnh này
+            request.setCharacterEncoding("UTF-8");                   response.setContentType("text/html;charset=UTF-8");
