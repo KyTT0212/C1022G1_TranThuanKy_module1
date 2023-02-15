@@ -2,7 +2,7 @@ package controllor;
 
 import model.Product;
 import service.IProductService;
-import service.impl.ProductServiceImpl;
+import service.impl.ProductService;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -14,7 +14,7 @@ import java.util.List;
 
 @WebServlet(name = "ProductServlet",value = "/product")
 public class ProductServlet extends HttpServlet {
-    IProductService productService = new ProductServiceImpl();
+    IProductService productService = new ProductService();
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String nameAction = request.getParameter("nameAction");
@@ -23,16 +23,16 @@ public class ProductServlet extends HttpServlet {
         }
         switch (nameAction){
             case "create":
-                displayCreate (request,response);
+                create (request,response);
                 break;
             case "update":
-                displayUpdate (request,response);
+                update (request,response);
                 break;
             case "delete":
-                displayDelete (request,response);
+                delete (request,response);
                 break;
             case "search":
-                displaySearch (request,response);
+                search (request,response);
                 break;
             default:
                 break;
@@ -40,7 +40,7 @@ public class ProductServlet extends HttpServlet {
 
     }
 
-    private void displayDelete(HttpServletRequest request, HttpServletResponse response) {
+    private void delete(HttpServletRequest request, HttpServletResponse response) {
         int id =Integer.parseInt(request.getParameter("id"));
         Product product = productService.findById(id);
 
@@ -62,7 +62,7 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-    private void displayUpdate(HttpServletRequest request, HttpServletResponse response) {
+    private void update(HttpServletRequest request, HttpServletResponse response) {
         int id = Integer.parseInt(request.getParameter("id"));
         String name = request.getParameter("name");
         String price = request.getParameter("price");
@@ -96,7 +96,7 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-    private void displayCreate(HttpServletRequest request, HttpServletResponse response) {
+    private void create(HttpServletRequest request, HttpServletResponse response) {
         String name = request.getParameter("name");
         String price = request.getParameter("price");
         String quantity = request.getParameter("quantity");
@@ -111,7 +111,7 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-    private void displaySearch(HttpServletRequest request, HttpServletResponse response) {
+    private void search(HttpServletRequest request, HttpServletResponse response) {
         String productName = request.getParameter("search");
         List<Product> productList = productService.search(productName);
 
@@ -143,13 +143,13 @@ public class ProductServlet extends HttpServlet {
         }
         switch (nameAction){
             case "create":
-                displayCreateForm (request,response);
+                createForm (request,response);
                 break;
             case "update":
-                displayUpdateForm (request,response);
+                updateForm (request,response);
                 break;
             case "delete":
-                displayDeleteForm (request,response);
+                deleteForm (request,response);
                 break;
             case "search":
                 break;
@@ -175,7 +175,7 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-    private void displayDeleteForm(HttpServletRequest request, HttpServletResponse response) {
+    private void deleteForm(HttpServletRequest request, HttpServletResponse response) {
         int id = Integer.parseInt(request.getParameter("id"));
         Product product = productService.findById(id);
 
@@ -189,7 +189,7 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-    private void displayUpdateForm(HttpServletRequest request, HttpServletResponse response) {
+    private void updateForm(HttpServletRequest request, HttpServletResponse response) {
         int id = Integer.parseInt(request.getParameter("id"));
         Product product = productService.findById(id);
 
@@ -203,7 +203,7 @@ public class ProductServlet extends HttpServlet {
         }
     }
 
-    private void displayCreateForm(HttpServletRequest request, HttpServletResponse response) {
+    private void createForm(HttpServletRequest request, HttpServletResponse response) {
         try {
             request.getRequestDispatcher("/view/create.jsp").forward(request,response);
         } catch (ServletException e) {
